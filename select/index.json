@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バラバラバランス・ダンス",
+  "base_artist": "虹のコンキスタドール",
+  "createdAt": "2025-12-26T02:36:11.622502Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バラバラバランス・ダンス",
+      "artist": "虹のコンキスタドール",
+      "has_synced": false,
+      "path": "select/pl_01_バラバラバランス・ダンス_虹のコンキスタドール.txt"
+    }
+  ]
+}
